@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    font-family: m;
+    margin: 0 auto;
+    background-image: linear-gradient(rgb(0, 158, 196),rgb(211, 239, 255));
+    height: 850px;;
+    background-repeat: no-repeat;
+}
+
+.about-us-div{
+    font-family: 'Comforter', cursive;
+    color: rgb(32,37,41);
+    margin-top: 120px;
+}
+
+.about-beast-burger{
+    font-family: sans-serif;
+    color: rgb(32,37,41);
+    font-size: larger; 
+}
+.image{
+    float: left;
+    margin: 15px;
+    margin-left: 130px;
+}
+.about-us-locations{
+    font-family: 'Comforter', cursive;
+    color: rgb(32,37,41);
+    font-size: small; 
+    font: 1em sans-serif;
+}
+
+.lastprt {
+    background-color: rgb(0, 0, 0);
+    height: 170px;
+    margin-top: -100px;   
+}

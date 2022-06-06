@@ -1,0 +1,13 @@
+
+body {
+    font-family: m;
+    margin: 0 auto;
+    background-image: linear-gradient(rgb(0, 158, 196),rgb(211, 239, 255));
+    height: 1350px;;
+    background-repeat: no-repeat;
+}
+.image{
+    float: left;
+    margin: 15px;
+    margin-left: 10px;
+}
